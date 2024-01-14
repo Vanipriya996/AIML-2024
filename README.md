@@ -1,4 +1,4 @@
-# AIML-2023
+# AIML-2024-25
 Repository for student projects and assignments
 # Artificial Intelligence and Machine Learning Projects and Lab Instruction Sheets
 1. [Lab 01](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A1.pdf): Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
