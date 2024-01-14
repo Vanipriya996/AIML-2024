@@ -3,14 +3,14 @@ Repository for student projects and assignments
 # Artificial Intelligence and Machine Learning Projects and Lab Instruction Sheets
 1. [Lab 01](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A1.pdf): Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
 1. [Lab 02](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A2.pdf): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
-1. [Lab 03](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A1.pdf):
-1. [Lab 04](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A1.pdf):
-1. [Lab 05](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A1.pdf):
-1. [Lab 06](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A1.pdf):
-1. [Lab 07](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A1.pdf):
-1. [Lab 08](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A1.pdf):
-2. [Lab 09](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A1.pdf):
-3. [Lab 10](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A1.pdf):
+1. [Lab 03](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A3.pdf): Implement Linear Regression using Boston Housing Data
+1. [Lab 04](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A4.pdf): Implement Logistic Regression using Titanic Ship Data
+1. [Lab 05](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A5.pdf):
+1. [Lab 06](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A6.pdf):
+1. [Lab 07](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A7.pdf):
+1. [Lab 08](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A8.pdf):
+2. [Lab 09](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A9.pdf):
+3. [Lab 10](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A10.pdf):
 
 
 # Lab Code Notebooks
