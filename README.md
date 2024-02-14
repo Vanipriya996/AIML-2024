@@ -6,11 +6,11 @@ Repository for student projects and assignments
 1. [Lab 03](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A3.pdf): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 1. [Lab 04](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A4.pdf): Implement Linear Regression using Boston Housing Data
 1. [Lab 05](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A5.pdf): Implement Logistic Regression using Titanic Ship Data
-1. [Lab 06](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A6.pdf):
-1. [Lab 07](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A7.pdf):
-1. [Lab 08](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A8.pdf):
-2. [Lab 09](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A9.pdf):
-3. [Lab 10](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A10.pdf):
+1. [Lab 06](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A6.pdf): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
+1. [Lab 07](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A7.pdf): Implement Support Vector Machine using Breast Cancer Data
+1. [Lab 08](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A8.pdf): Implement Decision Tree Classifier using Lending Club Data
+2. [Lab 09](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A9.pdf): Implement Random Forest Ensemble Classifier using Lending Club Data
+3. [Lab 10](https://github.com/kirankumareranki/AIML-2023/blob/main/AIML_A10.pdf): Implement K-Means Clustering using Iris Data
 
 
 # Lab Code Notebooks
